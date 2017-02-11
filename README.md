@@ -1,24 +1,4 @@
-# README
+instagram_app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app develops a simple Instagram-like web application where users can upload images and corresponding text. The tutorial can be found at the following URL: https://www.youtube.com/watch?v=MpFO4Zr0EPE.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
