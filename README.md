@@ -7,4 +7,4 @@ This was built on Ruby 5.0.0 and Rails 2.4.0.
 The application currently features a few functionalities as described below. 
 
 A "new post" functionality, where you can upload an image and write corresponding text.
-(https://raw.githubusercontent.com/hmc-cs-rpan/instagram_app/master/images/new-post.png)
+!(https://raw.githubusercontent.com/hmc-cs-rpan/instagram_app/master/images/new-post.png)
