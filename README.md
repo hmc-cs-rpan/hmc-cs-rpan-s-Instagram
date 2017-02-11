@@ -21,4 +21,4 @@ After a user registers, he/she can log-in and log-out as shown in the following 
 ![new-post](https://raw.githubusercontent.com/hmc-cs-rpan/instagram_app/master/images/sign-out.png)
 
 The final home-page with an arbitrary number of pictures should look as such.
-![new-post](https://raw.githubusercontent.com/hmc-cs-rpan/instagram_app/master/images/homepage.png)
+![new-post](https://raw.githubusercontent.com/hmc-cs-rpan/instagram_app/master/images/home-page.png)
